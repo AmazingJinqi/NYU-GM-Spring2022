@@ -1,2 +1,19 @@
-.ipynb_checkpoints
-*.DS_Store
+# Distribution / packaging
+build/
+build_release/
+build_debug
+
+# VSCode
+.vscode/
+
+# IDEA
+.idea/
+
+# Zip files
+*.zip
+
+# Local OS metadata
+.DS_Store
+
+*.mp4
+.ipynb_checkpoints/
